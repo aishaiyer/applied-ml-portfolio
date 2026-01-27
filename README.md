@@ -19,3 +19,30 @@ from data ingestion through analysis, modeling, and interpretation.
 - Environmental exposure modeling using air quality and meteorological data
 - Gene expression quality control and batch-effect analysis
 - Measurement noise propagation in scientific ML models
+
+## Technical Stack
+
+**Languages & Core Tools**
+- Python
+- NumPy, pandas, SciPy
+
+**Machine Learning**
+- scikit-learn
+- PyTorch
+- JAX
+- TensorFlow
+- Gradient-boosted trees (XGBoost / LightGBM)
+
+**Modeling & Statistics**
+- statsmodels
+- dimensionality reduction and clustering
+- uncertainty-aware modeling
+
+**Visualization**
+- matplotlib
+- seaborn
+
+**Compute & Platforms**
+- Cloud-based workflows
+- GPU-accelerated training
+
