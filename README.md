@@ -16,6 +16,7 @@ The projects below are designed to reflect real applied-science workflows,
 from data ingestion through analysis, modeling, and interpretation.
 
 - Environmental exposure modeling using air quality and meteorological data:
+  
   https://github.com/aishaiyer/project-air-quality-exposure
   
 ### In progress
